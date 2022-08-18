@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/03/22 19:33:32.000.349,=C:\Users\Ricardo\Documents\Embarcadero\Studio\Projects\Unit4.pas</Transaction>
+    <Transaction>2021/06/07 21:46:13.580,=C:\Users\Ricardo\Documents\Embarcadero\Studio\Projects\Unit4.pas</Transaction>
+    <Transaction>2021/06/07 21:49:38.262,C:\Delphi\ProjetoManipular\View\uManipulaView.View.Main.pas=C:\Users\Ricardo\Documents\Embarcadero\Studio\Projects\Unit4.pas</Transaction>
+    <Transaction>2021/06/07 21:49:38.262,C:\Delphi\ProjetoManipular\View\uManipulaView.View.Main.dfm=C:\Users\Ricardo\Documents\Embarcadero\Studio\Projects\Unit4.dfm</Transaction>
+    <Transaction>2021/06/07 21:49:57.705,C:\Delphi\ProjetoManipular\ProjetoManipular.dproj=C:\Users\Ricardo\Documents\Embarcadero\Studio\Projects\Project4.dproj</Transaction>
+    <Transaction>2021/06/07 21:52:50.933,=C:\Delphi\ProjetoManipular\Unit1.pas</Transaction>
+    <Transaction>2021/06/07 21:54:00.554,C:\Delphi\ProjetoManipular\Controller\uManipulaView.Controller.ManipularObjetos.pas=C:\Delphi\ProjetoManipular\Unit1.pas</Transaction>
+    <Transaction>2021/06/07 21:54:15.491,=C:\Delphi\ProjetoManipular\Unit1.pas</Transaction>
+    <Transaction>2021/06/07 21:54:45.509,C:\Delphi\ProjetoManipular\Controller\uManipulaView.Controller.Interfaces.pas=C:\Delphi\ProjetoManipular\Unit1.pas</Transaction>
+    <Transaction>2021/06/07 21:54:54.528,=C:\Delphi\ProjetoManipular\Unit1.pas</Transaction>
+    <Transaction>2021/06/07 21:55:26.790,C:\Delphi\ProjetoManipular\Model\uManipulaView.Model.ManipularObjetos.pas=C:\Delphi\ProjetoManipular\Unit1.pas</Transaction>
+    <Transaction>2021/06/07 21:55:32.102,=C:\Delphi\ProjetoManipular\Unit1.pas</Transaction>
+    <Transaction>2021/06/07 21:55:58.707,C:\Delphi\ProjetoManipular\Model\uManipulaView.Model.Interfaces.pas=C:\Delphi\ProjetoManipular\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>

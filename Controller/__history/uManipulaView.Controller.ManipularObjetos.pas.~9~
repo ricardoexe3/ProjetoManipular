@@ -1,0 +1,20 @@
+unit uManipulaView.Controller.ManipularObjetos;
+
+interface
+
+uses
+  uManipulaView.Controller.Interfaces, uManipulaView.Model.Interfaces;
+ type
+ TController_ManipularObjetos = class(TInterfacedObject, iController_ManipularObjetos)
+   private
+    FModel_Manipular:
+   public
+    function Fn_ManipularObjetos:iModel_ManipularObjetos;
+    class function New:iController_ManipularObjetos;
+    constructor Create;
+    destructor Destroy; override;
+ end;
+
+implementation
+
+end.
