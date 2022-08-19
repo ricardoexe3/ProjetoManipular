@@ -17,7 +17,6 @@ uses
     destructor Destroy; override;
   end;
 implementation
-
 uses
   System.Classes;
 
